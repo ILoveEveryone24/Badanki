@@ -1,0 +1,40 @@
+body{
+	background-color:#d06457;
+	background-image:url('Background.png');
+	background-repeat:no-repeat;
+	color:white;
+	text-align:center;
+	font-size:30px;
+}
+
+h1{
+	font-size:200px;
+}
+
+input, button{
+	padding:20px 50px;
+	border-radius:20px;
+	font-size:20px;
+}
+
+button{
+	margin-top:10px;
+	color:white;
+	background-color:transparent;
+	font-size:20px;
+	border:2px solid black;
+}
+
+#top{
+	margin:50px;
+	height:150px;
+}
+
+#card{
+	font-size:70px;
+	height:1150px;
+}
+
+#buttons{
+	height:150px;
+}
